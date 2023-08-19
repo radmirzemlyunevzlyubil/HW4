@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "first-name": "Twilight",
+      "last-name": "Sparkle",
+      "race": "Alicorn",
+      "gender": "Mare",
+      "id": 0
+    },
+    {
+      "first-name": "Starlight",
+      "last-name": "Glimmer",
+      "race": "Unicorn",
+      "gender": "Mare",
+      "id": 1
+    },
+    {
+      "first-name": "Sunburst",
+      "last-name": null,
+      "race": "Unicorn",
+      "gender": "Stallion",
+      "id": 2
+    },
+    {
+      "first-name": "Sunset",
+      "last-name": "Shimmer",
+      "race": "Unicorn",
+      "gender": "Mare",
+      "id": 3
+    },
+    {
+      "first_name": "Princess",
+      "last_name": "Celestia",
+      "race": "Alicorn",
+      "gender": "mare",
+      "id": 4
+    }
+  ]
+}
